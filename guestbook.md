@@ -368,3 +368,6 @@
 - Andrey Radchenko
 - eric
 - Mary Taylor
+- Zhu Zhi
+- Dan Hustmyer
+- Dan Rich
